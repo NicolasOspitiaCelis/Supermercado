@@ -112,11 +112,11 @@ WSGI_APPLICATION = 'Supermercado.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'daejh0tp31grt8',
-        'USER': 'huplfobechtswo',
-        'PASSWORD': 'ea1948f2468a7dcd6750b988c5ee2a2ce81903e9fd23a9851ce18af1f092e775',
-        'HOST': 'ec2-3-220-214-162.compute-1.amazonaws.com',
-        'PORT': '5432',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': '',
     }
 }
 
